@@ -3,5 +3,19 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG15516
   title: དཔལ་མཉམ་མེད་མར་པ་བཀའ་བརྒྱུད་ཀྱི་གྲུབ་པའི་མཐའ་རྣམ་པར་ངེས་པར་བྱེད་པ་མདོར་བསྡུས་སུ་བརྗོད་པ་དྭགས་བརྒྱུད་གྲུབ་པའི་མེ་ལོང་།
-  volume: ''
+  volume:
+    27660b49965f4c6895d40fea7448dca8:
+      image_group_id: I1KG15583
+      title: Volume 1 of dpal mnyam med mar pa bka' brgyud kyi grub pa'i mtha' rnam
+        par nges par byed pa mdor bsdus su brjod pa dwags brgyud grub pa'i me long
+        /
+      volume_number: 1
+      total_pages: 382
   author: ''
+ebook_metadata:
+  title: དཔལ་མཉམ་མེད་མར་པ་བཀའ་བརྒྱུད་ཀྱི་གྲུབ་པའི་མཐའ་རྣམ་པར་ངེས་པར་བྱེད་པ་མདོར་བསྡུས་སུ་བརྗོད་པ་དྭགས་བརྒྱུད་གྲུབ་པའི་མེ་ལོང་།
+  author: ''
+  sku: P000409
+  cover: cover.jpg
+  layers:
+  - pagination
