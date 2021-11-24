@@ -1,5 +1,7 @@
 id: P000409
 initial_creation_type: ocr
+created_at: 18/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG15516
   title: དཔལ་མཉམ་མེད་མར་པ་བཀའ་བརྒྱུད་ཀྱི་གྲུབ་པའི་མཐའ་རྣམ་པར་ངེས་པར་བྱེད་པ་མདོར་བསྡུས་སུ་བརྗོད་པ་དྭགས་བརྒྱུད་གྲུབ་པའི་མེ་ལོང་།
@@ -13,10 +15,3 @@ source_metadata:
       volume_number: 1
       total_pages: 382
       base_file: v001.txt
-ebook_metadata:
-  title: དཔལ་མཉམ་མེད་མར་པ་བཀའ་བརྒྱུད་ཀྱི་གྲུབ་པའི་མཐའ་རྣམ་པར་ངེས་པར་བྱེད་པ་མདོར་བསྡུས་སུ་བརྗོད་པ་དྭགས་བརྒྱུད་གྲུབ་པའི་མེ་ལོང་།
-  author: ''
-  sku: P000409
-  cover: cover.jpg
-  layers:
-  - pagination
